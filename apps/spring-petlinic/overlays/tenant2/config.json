@@ -1,0 +1,1 @@
+{"appName":"spring-petlinic","userGivenName":"spring-petlinic","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/spring-petlinic/overlays/tenant2","srcRepoURL":"https://github.com/SergK/edp-demo.git","srcTargetRevision":"","labels":null}
