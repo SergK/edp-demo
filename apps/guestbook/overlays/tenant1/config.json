@@ -1,0 +1,1 @@
+{"appName":"guestbook","userGivenName":"guestbook","destNamespace":"tenant1","destServer":"https://kubernetes.default.svc","srcPath":"apps/guestbook/overlays/tenant1","srcRepoURL":"https://github.com/SergK/edp-demo.git","srcTargetRevision":"","labels":null}
